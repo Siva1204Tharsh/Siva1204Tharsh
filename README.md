@@ -25,6 +25,6 @@ Bachelor of Science (BSc) in Computer Science and Technology Student
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva1204Tharsh&theme=dark&show_icons=true&&hide=issues,contribs)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sivatharshan12?theme=dark&font=Maitree&ext=contest)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Siva1204Tharsh&bg_color=100f0f&color=f8f6f6&line=999e4c&point=fcf7f7&area=true&hide_border=true)]
-(https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Siva1204Tharsh&bg_color=100f0f&color=f8f6f6&line=999e4c&point=fcf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
