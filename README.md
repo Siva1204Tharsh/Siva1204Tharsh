@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Siva
 
 Bachelor of Science (BSc) in Computer Science and Technology Student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=790b7611athdortek6yosqoui9nnml6v1fexa7b4lfbt1jz2&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🔭 Here's my [portfolio](https:///)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
