@@ -29,5 +29,5 @@ Bachelor of Science (BSc) in Computer Science and Technology Student
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sivatharshan12?theme=dark&font=Maitree&ext=contest)
-[![](https://visitcount.itsvg.in/api?id=Siva1204Tharsh&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Siva1204Tharsh&bg_color=100f0f&color=f8f6f6&line=999e4c&point=fcf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![](https://visitcount.itsvg.in/api?id=Siva1204Tharsh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Siva1204Tharsh&bg_color=100f0f&color=f8f6f6&line=999e4c&point=fcf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
