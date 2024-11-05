@@ -27,7 +27,7 @@ Bachelor of Science (BSc) in Computer Science and Technology Student
 <img width="48" height="48" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
 
 ![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva1204Tharsh&theme=dark&show_icons=true&&hide=issues,contribs)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva1204Tharsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva1204Tharsh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sivatharshan12?theme=dark&font=Maitree&ext=contest)
