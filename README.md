@@ -2,7 +2,7 @@
 
 Bachelor of Science (BSc) in Computer Science and Technology Student
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=790b7611athdortek6yosqoui9nnml6v1fexa7b4lfbt1jz2&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-- 🔭 Here's my [portfolio](https://siva1204tharsh.github.io/Siva_Portfolio/)                                                 
+- 🔭 Here's my [portfolio](https://vermillion-dasik-31c1ee.netlify.app/)                                                 
 - 🌱 I’m currently learning BigData(Apache Hadoop)
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in FAANG
